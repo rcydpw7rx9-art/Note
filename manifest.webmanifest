@@ -1,0 +1,18 @@
+{
+  "name": "Bassiste — Entraîneur de notes",
+  "short_name": "Bassiste",
+  "description": "Révision aléatoire des notes sur les cordes de basse",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#0e0d0c",
+  "theme_color": "#0e0d0c",
+  "lang": "fr",
+  "categories": ["music", "education"],
+  "icons": [
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png" },
+    { "src": "icon-maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
